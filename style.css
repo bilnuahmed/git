@@ -1,0 +1,36 @@
+body {
+  margin: 0 auto;
+  padding: 100px;
+  background-color: #b7c0f6;
+  border: 10px solid #0f0b39;
+  min-height: 100vh;
+  display: block;
+  box-sizing: border-box;
+}
+
+.top_section {
+  margin-top: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.top_section img {
+  width: 320px;
+  height: 300px;
+  overflow: ;
+  border-radius: 50%;
+}
+
+.top_section h1 {
+  color: #0f0b39;
+  font-size: 50px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.top_section h4 {
+  font-size: 30px;
+  text-align: end;
+}
